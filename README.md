@@ -5,4 +5,4 @@ You should beable to download the files as a .zip and just extract them in your 
 
 Make sure the folder with the contents of the mod is named "ProjectAmber"
 
-Any questions feel free to ask for any help
+Any questions, feel free to ask for any help
