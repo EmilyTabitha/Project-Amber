@@ -1,3 +1,1 @@
-Finish setting up template for github, perhaps use annbenar desciptor/ .mod file for path replacement
 
-putting most Eu4 vaniella content for mod base
