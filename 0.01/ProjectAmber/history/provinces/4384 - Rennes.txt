@@ -1,0 +1,37 @@
+# 4384 Rennes
+owner = ALE
+controller = ALE
+capital = "Rennes"
+is_city = yes
+culture = breton
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 4
+add_core = ALE
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1453.1.1 = {
+}
+1532.8.4 = {
+}
+# Union Treaty
+1588.12.1 = {
+}
+# Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = {
+}
+# 'Paris vaut bien une messe!', Henri converts to Catholicism
+1636.1.1 = {
+}
+# Revolt imminent
+1638.1.1 = {
+}
+1639.1.1 = {
+}
+1641.1.1 = {
+}

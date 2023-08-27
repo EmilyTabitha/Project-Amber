@@ -1,0 +1,37 @@
+# 4748 - Brandenburg
+owner = POL
+controller = POL
+culture = saxon
+religion = catholic
+base_tax = 4
+base_production = 3
+trade_goods = iron
+base_manpower = 3
+capital = "Brandenburg an der Havel"
+is_city = yes
+add_core = POL
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1539.1.1 = {
+}
+1650.1.1 = {
+}
+1701.1.18 = {
+	owner = PRU
+	controller = PRU
+	add_core = PRU
+	remove_core = BRA
+}
+# Friedrich III becomes king of Prussia
+1750.1.1 = {
+}
+1806.7.12 = {
+}
+# The Holy Roman Empire is dissolved
+1806.10.27 = {
+}
+1807.7.9 = {
+}
+# The Second treaty of Tilsit

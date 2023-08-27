@@ -1,0 +1,58 @@
+#1875 - Cuneo (can't change filename)
+owner = SZO
+controller = SZO
+culture = piedmontese
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+trade_goods = grain
+base_manpower = 4
+capital = "Cuneo"
+is_city = yes# Estimated
+add_core = SZO
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+fort_15th = yes
+1495.1.1 = {
+}
+1536.1.1 = {
+}
+1562.1.1 = {
+}
+1583.1.1 = {
+}
+1648.1.1 = {
+}
+1713.4.12 = {
+	owner = SIC
+	controller = SIC
+	add_core = SIC
+}
+# Treaty of Utrecht
+1715.1.1 = {
+}
+1720.1.1 = {
+	owner = SPI
+	controller = SPI
+	add_core = SPI
+	remove_core = SIC
+}
+# Kingdom of Piedmont-Sardinia
+1792.9.1 = {
+}
+# Conquered by the French
+1796.4.25 = {
+}
+# The Republic of Alba
+1806.7.12 = {
+}
+# The Holy Roman Empire is dissolved
+1814.4.11 = {
+	owner = SPI
+	controller = SPI
+	remove_core = FRA
+}
+# Napoleon abdicates and Victor Emmanuel is able to return to Turin

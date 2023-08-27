@@ -1,0 +1,143 @@
+# 1866 - Namur
+owner = HAI
+controller = HAI
+capital = "Namur"
+is_city = yes
+culture = wallonian
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 7
+trade_goods = iron
+base_manpower = 3
+add_core = HAI
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+fort_15th = yes
+latent_trade_goods = {
+	coal 
+}
+1477.1.5 = {
+}
+# Charles the Bold dies, Lowlands to Austria
+1519.1.12 = {
+}
+# Charles V gets total control over his Burgundian inheritance
+1559.5.12 = {
+}
+# New bishoprics established in the Lowlands create an outrage
+1566.8.1 = {
+}
+# 'Beeldenstorm' at hand
+1566.8.10 = {
+	0 revolt = {
+	}
+}
+# 'Beeldenstorm' also hits Hainaut
+1567.1.8 = {
+	revolt = {
+	}
+}
+# Spain is back in control
+1567.9.10 = {
+}
+# Counts of Egmont & Hoorne arrested
+1568.6.5 = {
+}
+# Counts of Egmont & Hoorne beheaded
+1569.1.1 = {
+}
+# The Duke of Alba reforms the taxation system ('tiende penning')
+1570.1.1 = {
+}
+# The Duke of Alba reforms the penal system, 'Blood Council' (Bloedraad) established
+1572.5.24 = {
+	revolt = {
+	}
+}
+# Louis of Nassau captures Mons
+1572.8.1 = {
+	revolt = {
+	}
+}
+# Don Felip� takes back Mons
+1577.2.12 = {
+}
+# 'Perpetual Edict' (Eeuwig Edict) accepted by Don Juan
+1579.1.6 = {
+}
+# Union of Arras established
+1583.1.1 = {
+}
+1635.5.1 = {
+}
+# French troops capture parts of the Southern Lowlands
+1648.1.1 = {
+}
+1648.1.30 = {
+}
+# Peace of M�nster/Westphalia
+1665.9.17 = {
+}
+# Louis XIV's father-in-law, Philip IV of Spain, dies
+1667.9.25 = {
+}
+# Mar�chal captures alot of cities in the region for Louis XIV
+1668.5.2 = {
+}
+# Peace of Aachen
+1672.5.5 = {
+}
+# France blitzes through the Lowlands in the Franco-Dutch War
+1678.9.19 = {
+}
+# Peace of Nijmegen (France-Spain)
+1692.1.1 = {
+}
+# France takes Mons, Halle and others in the War of the Grand Alliance
+1695.9.1 = {
+}
+# William of Orange takes back the region for Spain
+1713.4.11 = {
+}
+# Treaty of Utrecht
+1715.9.1 = {
+}
+# Louis XIV passes away
+1744.4.1 = {
+}
+# France captures Hainaut in the Austrian War of Succession
+1744.7.1 = {
+}
+# France withdraws
+1746.10.11 = {
+}
+# Mar�chal Saxe launches a succesful offensive
+1748.10.18 = {
+}
+# Peace of Aachen
+1792.11.6 = {
+}
+# Conquered by the French troops under Dumouriez
+1793.3.18 = {
+}
+# Reconquered by Prince Josias of Coburg
+1797.10.17 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	remove_core = HAB
+}
+# The Treaty of Campo Formio, the Austrian Netherlands are ceded to France 
+1806.7.12 = {
+}
+# The Holy Roman Empire is dissolved
+1815.3.16 = {
+	owner = NED
+	controller = NED
+	add_core = NED
+	remove_core = FRA
+}
+# The United Kingdom of the Netherlands

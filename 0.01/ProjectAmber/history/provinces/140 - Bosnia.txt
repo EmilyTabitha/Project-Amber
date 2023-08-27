@@ -1,0 +1,66 @@
+#140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
+owner = CRO# Part of the Bosnian kingdom
+controller = CRO
+culture = bosnian
+religion = orthodox
+capital = "Doboj"#or Srebrenik
+trade_goods = salt
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+add_core = CRO
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1463.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
+# The Ottoman province of Bosnia
+1583.1.1 = {
+}
+1593.1.1 = {
+}
+# Fighting began in northwestern Bosnia, sparked Habsburg-Ottoman conflict
+1606.1.1 = {
+}
+# Temporarty peace
+1683.1.1 = {
+}
+# Heavy fighting & destruction in western Bosnia
+1699.1.1 = {
+}
+# Flood of Muslim refugees from Slavonia & Ottoman Hungary 
+1716.12.9 = {
+}
+# Occupied by Habsburg
+1718.7.21 = {
+}
+1737.7.1 = {
+}
+# Occupied by Habsburg again
+1738.1.1 = {
+}
+# The constant fighting, increased taxation caused tax revolts
+1739.9.18 = {
+}
+# Treaty of Belgrade, Habsburg gave up its claim to the territory
+1740.1.1 = {
+}
+1750.1.1 = {
+}
+1788.12.6 = {
+}
+# Habsburg invasion
+1791.8.4 = {
+}
+# Treaty of Sistova

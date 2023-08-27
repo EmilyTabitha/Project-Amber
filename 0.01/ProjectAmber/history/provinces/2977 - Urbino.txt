@@ -1,0 +1,43 @@
+# Urbino
+owner = SAR
+controller = SAR
+culture = umbrian
+religion = catholic
+base_tax = 5
+base_production = 5
+trade_goods = grain
+base_manpower = 2
+capital = "Urbino"
+is_city = yes
+extra_cost = 8
+center_of_trade = 1
+add_core = SAR
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+hre = yes
+1408.1.1 = {
+}
+# Ladislas takes control of Ancona
+1414.8.6 = {
+}
+1626.1.1 = {
+}
+# Annexed to the Holy See
+1750.1.1 = {
+}
+1805.12.26 = {
+	owner = ITA
+	controller = ITA
+	add_core = ITA
+	remove_core = PAP
+}
+# Treaty of Pressburg
+1814.4.11 = {
+	owner = PAP
+	controller = PAP
+	add_core = PAP
+	remove_core = ITA
+}
+# Treaty of Fontainebleau, Napoleon abdicates unconditionally

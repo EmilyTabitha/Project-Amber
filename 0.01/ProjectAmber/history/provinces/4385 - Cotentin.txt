@@ -1,0 +1,56 @@
+# 4385 Cotentin Peninsula - Principal cities: Cherbourg, Avranches
+owner = FRA
+controller = FRA
+capital = "Cherbourg"
+is_city = yes
+culture = normand
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+trade_goods = naval_supplies
+base_manpower = 2
+extra_cost = 8
+center_of_trade = 1
+add_core = FRA
+add_core = NRM
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1415.10.25 = {
+}
+# The Battle of Agincourt
+1420.5.12 = {
+}
+# Treaty of Troyes
+1450.1.1 = {
+}
+# Retaken by France
+1465.8.15 = {
+}
+# Treaty of Conflans
+1466.3.6 = {
+}
+# Louis XI reincorporates Normandy into the French crown
+1475.8.29 = {
+}
+# Treaty of Picquigny
+1588.12.1 = {
+}
+# Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = {
+}
+# 'Paris vaut bien une messe!', Henri converts to Catholicism
+1631.1.1 = {
+}
+# Region is restless
+1633.1.1 = {
+}
+1639.1.1 = {
+}
+1641.1.1 = {
+}
+1786.1.1 = {
+}
+# The Eden Agreement

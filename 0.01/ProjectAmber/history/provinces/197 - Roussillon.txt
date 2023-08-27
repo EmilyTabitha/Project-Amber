@@ -1,0 +1,63 @@
+# 197 Roussillon - Principal cities: Perpignan
+owner = NAV
+controller = NAV
+capital = "Perpignan"
+is_city = yes
+culture = catalan
+religion = catholic
+base_tax = 3
+base_production = 3
+trade_goods = wine
+base_manpower = 2
+add_core = CAT
+add_core = TOU
+add_core = NAV
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+fort_15th = yes
+hre = yes
+1412.6.29 = {
+	revolt = {
+	}
+}
+# Jaime de Urgell Uprising
+1413.1.1 = {
+	revolt = {
+	}
+}
+1462.1.1 = {
+}
+# Treaty of Bayonne: Aragon sells Roussillon to France
+1493.1.19 = {
+}
+# Treaty of Barcelona: Charles VIII restores Roussillon to Aragon
+1516.1.23 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+}
+# Spain comes into existence, Carlos I rises to the throne
+1583.1.1 = {
+}
+1648.1.1 = {
+}
+1659.10.28 = {
+}
+# Peace of the Pyrennees
+1674.8.10 = {
+}
+# Spain invades Roussillon again
+1678.9.19 = {
+}
+# Treaty of Nijmegen (FRA-SPA)
+1713.7.13 = {
+}
+1715.1.1 = {
+}
+1793.4.17 = {
+}
+# Occupied by the Spanish army
+1793.5.1 = {
+}

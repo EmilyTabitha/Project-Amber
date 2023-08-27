@@ -1,0 +1,51 @@
+# 4390 - Troyes
+owner = FRA
+controller = FRA
+capital = "Troyes"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = iron
+base_manpower = 3
+add_core = CHP
+add_core = FRA
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1588.12.1 = {
+}
+# Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = {
+}
+# 'Paris vaut bien une messe!', Henri converts to Catholicism
+1630.1.1 = {
+}
+1632.1.1 = {
+}
+1641.1.1 = {
+}
+1644.1.1 = {
+}
+1650.1.14 = {
+}
+# Mazarin arrests the Princes Cond�, Conti & Longueville, the beginning of the Second Fronde
+1650.3.1 = {
+	revolt = {
+	}
+}
+# Fronde rebels take control
+1651.4.1 = {
+	revolt = {
+	}
+}
+# An unstable peace is concluded
+1651.12.1 = {
+}
+# Mazarin returns from exile, Cond� sides with Spain, situation heats up again
+1652.10.21 = {
+}
+# The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.

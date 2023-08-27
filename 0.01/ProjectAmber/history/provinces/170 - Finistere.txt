@@ -1,0 +1,37 @@
+# 170 Finist�re - Principal cities: Brest
+owner = BRI
+controller = BRI
+capital = "Brest"
+is_city = yes
+culture = breton
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 4
+extra_cost = 8
+center_of_trade = 1
+add_core = BRI
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+fort_15th = yes
+1453.1.1 = {
+}
+1532.8.4 = {
+}
+# Union Treaty
+1583.1.1 = {
+}
+1588.12.1 = {
+}
+# Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = {
+}
+# 'Paris vaut bien une messe!', Henri converts to Catholicism
+1648.1.1 = {
+}
+1715.1.1 = {
+}

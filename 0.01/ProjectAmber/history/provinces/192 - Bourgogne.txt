@@ -1,0 +1,59 @@
+# 192 Bourgogne - Principal cities: Dijon
+owner = BUR
+controller = BUR
+capital = "Dijon"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 7
+trade_goods = wine
+base_manpower = 6
+extra_cost = 16
+center_of_trade = 2
+add_core = BUR
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1477.1.5 = {
+}
+# Charles the Bold dies and transfers Bourgogne to France
+1526.1.14 = {
+}
+# Treaty of Madrid, Austria claims Burgundy, but Fran�ois I refuses to hand it over subsequently
+1529.8.3 = {
+}
+# Peace of Cambrai (Ladies' Peace): Charles V renounces his claims on Bourgogne
+1588.12.1 = {
+}
+# Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1 = {
+}
+# 'Paris vaut bien une messe!', Henri converts to Catholicism
+1630.1.1 = {
+}
+1632.1.1 = {
+}
+1636.8.30 = {
+}
+# Habsburg forces ravage the region in the Thirty Years War
+1636.10.1 = {
+}
+# Bernhard of Saxe-Weimar defeats the invaders and gradually pushes them back
+1650.1.14 = {
+}
+# Mazarin arrests the Princes Cond�, Conti & Longueville, the beginning of the Second Fronde
+1651.4.1 = {
+}
+# An unstable peace is concluded
+1651.12.1 = {
+}
+# Mazarin returns from exile, Cond� sides with Spain, situation heats up again
+1652.10.21 = {
+}
+# The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
+1773.1.1 = {
+}
+# Turgot & the Economical Reforms

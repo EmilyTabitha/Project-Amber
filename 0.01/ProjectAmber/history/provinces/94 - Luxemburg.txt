@@ -1,0 +1,103 @@
+# 94 Luxembourg - Principal cities: Luxembourg
+owner = LUX
+controller = LUX
+capital = "Luxemburg"
+is_city = yes
+culture = wallonian
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = iron
+base_manpower = 2
+add_core = LUX
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+fort_15th = yes
+1477.1.5 = {
+}
+# Charles the Bold dies, Lowlands to Austria
+1519.1.12 = {
+}
+# Charles V gets total control over his Burgundian inheritance
+1545.1.1 = {
+}
+#1545, representing the first bastions and curtain walls - way ahead of tech though (3-4)
+1559.5.12 = {
+}
+# New bishoprics in the Lowlands create an outrage
+1567.9.10 = {
+}
+# Counts of Egmont & Hoorne arrested
+1568.6.5 = {
+}
+# Counts of Egmont & Hoorne beheaded
+1569.1.1 = {
+}
+# The Duke of Alba reforms the taxation system ('tiende penning')
+1570.1.1 = {
+}
+# The Duke of Alba reforms the penal system, 'Blood Council' (Bloedraad) established
+1577.2.12 = {
+}
+# 'Perpetual Edict' (Eeuwig Edict) accepted by Don Juan
+1579.1.6 = {
+}
+# Union of Arras established
+1659.7.1 = {
+}
+# Mar�chal Turenne takes control of Luxembourg
+1659.10.28 = {
+}
+# Peace of the Pyrennees
+1665.9.17 = {
+}
+# Louis XIV's father-in-law, Philip IV of Spain, dies
+1672.1.1 = {
+}
+#1672, representing further expansion against French attack
+1672.5.5 = {
+}
+# France blitzes through the Lowlands in the Franco-Dutch War
+1678.9.19 = {
+}
+# Peace of Nijmegen (France-Spain)
+1684.1.1 = {
+}
+# Louis XIV annexes Luxembourg
+1697.9.20 = {
+}
+# Peace of Rijswijck
+1713.4.11 = {
+}
+# Treaty of Utrecht
+1789.5.5 = {
+	base_tax = 9
+}
+# The General Estates
+1791.6.20 = {
+}
+# The storming of the Bastille
+1792.12.1 = {
+}
+# Conquered by the French troops under Dumouriez
+1793.3.18 = {
+}
+# Reconquered by Prince Josias of Coburg
+1797.10.17 = {
+	owner = FRA
+	controller = FRA
+	remove_core = HAB
+}
+# The Treaty of Campo Formio, Luxembourg is ceded to France 
+1806.7.12 = {
+}
+# The Holy Roman Empire is dissolved
+1815.6.9 = {
+	owner = LUX
+	controller = LUX
+	remove_core = FRA
+}
+# Grand Duchy of Luxembourg

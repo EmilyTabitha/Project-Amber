@@ -1,0 +1,55 @@
+#Ibiza
+owner = CAT# Alfons V of Aragon
+controller = CAT
+culture = catalan
+religion = catholic
+hre = yes
+base_tax = 1
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Ibiza"
+is_city = yes
+add_core = MJO
+add_core = CAT
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1462.1.1 = {
+}
+# Remen�a peasant revolt, in parallel with the Catalan civil war.
+1472.1.1 = {
+}
+# End of the First Remen�a revolt
+1516.1.23 = {
+	controller = SPA
+	owner = SPA
+	add_core = SPA
+}
+# King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
+1521.3.16 = {
+	revolt = {
+	}
+}
+# The Germanies movement reaches the archipelago, the viceroy is deposed by the revolters
+1523.3.8 = {
+	revolt = {
+	}
+}
+# The royal army retakes the city of Palma
+1705.10.9 = {
+}
+# Balearic isles side with the Austrian cause
+1713.4.11 = {
+	revolt = {
+	}
+}
+# The pro-Austrian forces in Mallorca and E�vissa ignore the Treaty of Utrecht.
+1713.7.13 = {
+	revolt = {
+	}
+}
+1714.9.14 = {
+}
+# Mallorca and E�vissa surrender shortly after the fall of Barcelona

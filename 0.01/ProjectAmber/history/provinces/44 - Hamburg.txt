@@ -1,0 +1,44 @@
+#44 - Hamburg
+owner = HSA
+controller = HSA
+culture = lower_saxon
+religion = protestant
+base_tax = 7
+base_production = 7
+trade_goods = fish
+base_manpower = 5
+capital = "Hamburg"
+is_city = yes
+extra_cost = 26
+center_of_trade = 2
+add_core = HSA
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+fort_15th = yes
+add_permanent_province_modifier = {
+	name = elbe_estuary_modifier
+	duration = -1
+}
+1529.1.1 = {
+}
+1583.1.1 = {
+}
+1648.1.1 = {
+}
+1806.7.12 = {
+}
+# The Holy Roman Empire is dissolved
+1810.12.13 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
+# Annexed by France
+1814.4.11 = {
+	owner = HAM
+	controller = HAM
+	remove_core = FRA
+}
+# Napoleon abdicates unconditionally

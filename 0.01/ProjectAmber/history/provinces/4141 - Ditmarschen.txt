@@ -1,0 +1,42 @@
+#4141 - Ditmarschen
+owner = HSA
+controller = HSA
+culture = lower_saxon
+religion = protestant
+base_tax = 2
+base_production = 3
+trade_goods = grain
+base_manpower = 3
+capital = "Meldorf"
+is_city = yes
+add_core = HSA
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1532.1.1 = {
+}
+1559.1.1 = {
+}
+#The last feud.
+1627.5.1 = {
+}
+1629.5.22 = {
+}
+1773.1.1 = {
+}
+1806.7.12 = {
+}
+# The Holy Roman Empire is dissolved
+1810.12.13 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
+# Annexed by France
+1814.4.11 = {
+	owner = DAN
+	controller = DAN
+	remove_core = FRA
+}
+# Napoleon abdicates unconditionally
