@@ -1,7 +1,11 @@
 # Project-Amber
 Eu4 Modding project
 
-You should beable to download the files as a .zip and just extract them in your Eu4 mod folder. The .mod files should work across PCs without changing them.
+replace the X in 
+
+path = "X"
+
+with the directory of the mod's data (Ex. C:\Users\Emily\Documents\Paradox Interactive\Europa Universalis IV\mod\ProjectAmber) 
 
 Make sure the folder with the contents of the mod is named "ProjectAmber"
 
